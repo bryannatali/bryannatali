@@ -14,17 +14,17 @@
 
 ## 🧪 Techs
 
-[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="Typescript logo" title="Typescript" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178c6" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=4FC08D" alt="React logo" title="React" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=4FC08D" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=4FC08D" alt="React Native logo" title="React Native" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=4FC08D" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components" alt="Styled Components logo" title="Styled Components" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components" alt="Styled Components logo" title="Styled Components" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 
 [learning_now_anchor]: #learning-now
